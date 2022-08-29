@@ -1,0 +1,13 @@
+{
+    "name": "srt2vtt",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "napthedev",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "cors": "^2.8.5",
+        "express": "^4.18.1",
+        "subtitle-converter": "^3.0.11"
+    }
+}
